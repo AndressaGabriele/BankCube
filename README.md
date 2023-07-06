@@ -1,19 +1,25 @@
+MEDIC HAS BEEN HERE!!!!!!!!!!!!!
+SETTING THINGS ON FIRE!!!!!!!!!!
+FIX THOSE IMAGES URL!!!!!!!!!!!!
+THEY ARE ALL BROKEN!!!!!!!!!!!!!
+YOU GOT THIS, GIRL!!!!!!!!!!!!!!
+
 # Bank Cube:
 
-O Banco Cube esta sendo desenvolvido para estudos de JavaScript com foco em criação de formularios, validação de CPF entre outros metodos utilizados. 
+O Banco Cube esta sendo desenvolvido para estudos de JavaScript com foco em criação de formularios, validação de CPF entre outros metodos utilizados.
 Com o tempo teremos aprimorações
 
 ## Tech utilizadas
 
-- HTML5 
+- HTML5
 - JS
 - CSS
 - Git
 
-### JavaScript Validação de formulario; 
+### JavaScript Validação de formulario;
 
 - Required
-- Type 
+- Type
 - Min e Max length
 - Patter e Regex
 
@@ -21,12 +27,12 @@ Com o tempo teremos aprimorações
 
 - addEventListener
 - Validação de CPF
-- Validação maior idade 
+- Validação maior idade
 - Validity State
-- Manipulando o DOM 
-- Local Storage  
+- Manipulando o DOM
+- Local Storage
 
-## Como rodar este projeto 
+## Como rodar este projeto
 
-- Git clone 
-- Go Live 
+- Git clone
+- Go Live
